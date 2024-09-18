@@ -1,0 +1,11 @@
+apiVersion: v1
+entries:
+  secretproviderclass:
+  - apiVersion: v2
+    created: "2024-09-18T14:59:26.828313243+05:30"
+    digest: 46a4f663497ff3390ff35841fd07ae172d8a891f977d2f91bbd983583f7e3da8
+    name: secretproviderclass
+    urls:
+    - secretproviderclass-1.0.0.tgz
+    version: 1.0.0
+generated: "2024-09-18T14:59:26.828105071+05:30"
